@@ -48,7 +48,7 @@
   };
 
   $.fn.typewriter.options = {
-    'speed' : 300
+    'speed' : 100
   };
 
 })(jQuery, window, document);
