@@ -1161,8 +1161,8 @@ footer .social-footer li:hover a {
             border-radius: 2px;
             padding: 20px;
             position: relative;
-            -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
-            box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+            -webkit-box-shadow: rgba(0, 0, 0, 0.0666667) 0px 2px 3px;
+            box-shadow: rgba(0, 0, 0, 0.0666667) 0px 2px 3px;
         }
 
             .timeline > li > .timeline-panel:before {
