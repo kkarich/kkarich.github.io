@@ -292,7 +292,7 @@ section {
 	width: 0;
 	height: 0;
 	border-top: 80px solid transparent;
-	border-right: 30px solid white;
+	border-right: 30px solid #f7f7f7;
 }
 
 .cut-bottom {
@@ -304,7 +304,7 @@ section {
 	width: 0;
 	height: 0;
 	border-bottom: 80px solid transparent;
-	border-left: 30px solid white;
+	border-left: 30px solid #f7f7f7;
 }
 
 .intro-tables {
