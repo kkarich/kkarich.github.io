@@ -1009,7 +1009,10 @@ footer .social-footer li:hover a {
 	background: white;
 }
 
-.gray-bg {
+.lgray-bg {
+	background: #f7f7f7;
+}
+.mgray-bg {
 	background: #f7f7f7;
 }
 
