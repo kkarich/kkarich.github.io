@@ -91,6 +91,7 @@ jQuery(function($) {
 	// Window Resize
 	$(window).resize(function() {
 		$('header').height($(window).height());
+		$('.header-overlay').height($(window).height());
 	});
 
 	// Pricing Box Click Event
