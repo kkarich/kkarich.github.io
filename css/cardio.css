@@ -665,7 +665,7 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: black;
+	background:  rgba(28,36,65,.93);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
