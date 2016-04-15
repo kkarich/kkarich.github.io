@@ -119,14 +119,6 @@ ul.white-list li:before {
     
 }
 
-.footer-overlay{    
-    position: relative;
-	width: 100%;
-	height:100%;
-	color: white;
-	background: rgba(28, 36, 65, 0.93);
-    
-}
 
 header {
 	position: relative;
