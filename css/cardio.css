@@ -665,7 +665,7 @@ section {
 
 footer {
 	padding: 140px 0 40px;
-	background: url('../img/footer.jpg');
+	background: black;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
