@@ -114,8 +114,6 @@ ul.white-list li:before {
 	width: 100%;
 	color: white;
 	background: rgba(28, 36, 65, 0.93);
-	background: url('../img/header.jpg');
-	background-size: cover;
     
 }
 
