@@ -276,6 +276,10 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	top: 50px;
 }
 
+
+.navbar-brand {
+  padding: 15px;
+
 .container {
 	position: relative;
 	z-index: 1;
