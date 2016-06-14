@@ -277,7 +277,7 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 }
 
 
-.navbar-brand {
+nav.navbar-brand {
   padding: 15px;
 
 .container {
